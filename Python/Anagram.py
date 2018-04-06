@@ -22,18 +22,22 @@ def isAnagram(string1, string2):
             # Get character from the second string
             secondStringCharcter = secondString[characterCount]
 
-            # If character already in the dictionary and its count is > than 0 then decrease the count
+            # If character in the first string is already in the dictionary and its count is > than 0 then decrease the count
             if firstStringCharcter in charDictionary and charDictionary[firstStringCharcter] > 0:
                 charDictionary[firstStringCharcter] -= 1
-            # If character already in the dictionary and its count is > than 1 then decrease the count
+            # If character in the first string  already in the dictionary and its count is > than 1 then decrease the count by 1
             else:
                 charDictionary[firstStringCharcter] = 1
-
+            
+            # If character in the first string is already in the dictionary and its count is > than 0 then decrease the count
             if secondStringCharcter in charDictionary and charDictionary[secondStringCharcter] > 0:
                 charDictionary[secondStringCharcter] -= 1
+            # If character in the first string  already in the dictionary and its count is > than 1 then decrease the count by 1
             else:
                 charDictionary[secondStringCharcter] = 1
 
+        # Loop through all the chracters in the dictionary and check if any character count is not 0
+        # If there is atleast one character with count greater than 0 then the string are not anagrams
         for value in charDictionary.values():
             if value != 0:
                 anagramCheck = False
@@ -41,6 +45,7 @@ def isAnagram(string1, string2):
     else:
         anagramCheck = False
 
+    # Return back stating whether the given strins are anagrams or not
     return anagramCheck
 
 # Get the input strings
