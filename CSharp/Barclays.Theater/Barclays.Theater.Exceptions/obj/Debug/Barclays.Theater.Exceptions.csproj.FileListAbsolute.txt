@@ -1,0 +1,5 @@
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Exceptions\bin\Debug\Barclays.Theater.Exceptions.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Exceptions\bin\Debug\Barclays.Theater.Exceptions.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Exceptions\obj\Debug\Barclays.Theater.Exceptions.csprojResolveAssemblyReference.cache
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Exceptions\obj\Debug\Barclays.Theater.Exceptions.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Exceptions\obj\Debug\Barclays.Theater.Exceptions.pdb

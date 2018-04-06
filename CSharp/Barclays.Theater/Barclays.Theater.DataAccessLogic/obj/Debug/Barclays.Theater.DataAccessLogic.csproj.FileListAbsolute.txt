@@ -1,0 +1,9 @@
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\bin\Debug\Barclays.Theater.DataAccessLogic.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\bin\Debug\Barclays.Theater.DataAccessLogic.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\bin\Debug\Barclays.Theater.Entities.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\bin\Debug\Barclays.Theater.Entities.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\obj\Debug\Barclays.Theater.DataAccessLogic.csprojResolveAssemblyReference.cache
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\obj\Debug\Barclays.Theater.DataAccessLogic.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic\obj\Debug\Barclays.Theater.DataAccessLogic.pdb

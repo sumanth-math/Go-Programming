@@ -1,0 +1,5 @@
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Entities\bin\Debug\Barclays.Theater.Entities.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Entities\bin\Debug\Barclays.Theater.Entities.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Entities\obj\Debug\Barclays.Theater.Entities.csprojResolveAssemblyReference.cache
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Entities\obj\Debug\Barclays.Theater.Entities.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Entities\obj\Debug\Barclays.Theater.Entities.pdb

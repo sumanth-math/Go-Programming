@@ -1,0 +1,7 @@
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic.Tests.Unit\bin\Debug\Barclays.Theater.BusinessLogic.Tests.Unit.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic.Tests.Unit\bin\Debug\Barclays.Theater.BusinessLogic.Tests.Unit.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic.Tests.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic.Tests.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic.Tests.Unit\obj\Debug\Barclays.Theater.BusinessLogic.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic.Tests.Unit\obj\Debug\Barclays.Theater.BusinessLogic.Tests.Unit.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic.Tests.Unit\obj\Debug\Barclays.Theater.BusinessLogic.Tests.Unit.pdb

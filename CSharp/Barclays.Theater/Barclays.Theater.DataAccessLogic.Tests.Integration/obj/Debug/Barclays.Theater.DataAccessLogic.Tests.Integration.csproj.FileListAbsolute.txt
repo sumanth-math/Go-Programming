@@ -1,0 +1,7 @@
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic.Tests.Integration\bin\Debug\Barclays.Theater.DataAccessLogic.Tests.Integration.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic.Tests.Integration\bin\Debug\Barclays.Theater.DataAccessLogic.Tests.Integration.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic.Tests.Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic.Tests.Integration\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic.Tests.Integration\obj\Debug\Barclays.Theater.DataAccessLogic.Tests.Integration.csprojResolveAssemblyReference.cache
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic.Tests.Integration\obj\Debug\Barclays.Theater.DataAccessLogic.Tests.Integration.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.DataAccessLogic.Tests.Integration\obj\Debug\Barclays.Theater.DataAccessLogic.Tests.Integration.pdb

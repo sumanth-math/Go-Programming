@@ -1,0 +1,16 @@
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.Application.exe.config
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.Application.exe
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.Application.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.BusinessLogic.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.Entities.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.DataAccessLogic.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.Exceptions.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.BusinessLogic.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.Entities.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.DataAccessLogic.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Barclays.Theater.Exceptions.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\obj\Debug\Barclays.Theater.Application.csprojResolveAssemblyReference.cache
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\obj\Debug\Barclays.Theater.Application.exe
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.Application\obj\Debug\Barclays.Theater.Application.pdb

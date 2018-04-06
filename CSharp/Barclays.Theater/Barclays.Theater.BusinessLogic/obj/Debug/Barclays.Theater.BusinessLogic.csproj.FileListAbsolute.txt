@@ -1,0 +1,13 @@
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.BusinessLogic.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.BusinessLogic.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.DataAccessLogic.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.Entities.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.Exceptions.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.DataAccessLogic.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.Entities.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Barclays.Theater.Exceptions.pdb
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\obj\Debug\Barclays.Theater.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\obj\Debug\Barclays.Theater.BusinessLogic.dll
+C:\Sumanth\MyGitHub Repo\Programming\CSharp\Barclays.Theater\Barclays.Theater.BusinessLogic\obj\Debug\Barclays.Theater.BusinessLogic.pdb
