@@ -1,0 +1,16 @@
+README
+
+Barclays Theater Seating design is based on layered architecture (Application, Business, DataAccess, Global layers). 
+I have used Repository pattern to store the theater seating and reservation information into a file data store in json format 
+(for quick and easy writing/reading). This option will give the flexibility to add reservations on a daily basis if need be in the future.
+Also if we need metrics/analytics on the reservation over a period of time it would be easy to extend. 
+I have used Interfaces so as to make unit testing and mocking easier and also for dependency injection.
+
+
+Upgrade/Addition Current Design
+Time permitting I would have liked to implement the following into the design:
+1) Dependency Injection using Unity
+2) Implement exhaustive Unit/Integration tests
+3) Ability to reserve seats on a daily basis
+4) Data Analytics Ex:- number of reservations per day or in a month, peak reservation in a month
+
