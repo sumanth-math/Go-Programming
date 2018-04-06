@@ -45,7 +45,7 @@ def isAnagram(string1, string2):
     else:
         anagramCheck = False
 
-    # Return back stating whether the given strins are anagrams or not
+    # Return back stating whether the given strings are anagrams or not
     return anagramCheck
 
 # Get the input strings
