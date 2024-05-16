@@ -1,0 +1,81 @@
+[{
+    "id": "JHk290Xj",
+    "make": "Ford",
+    "model": "F10",
+    "package": "Base",
+    "color": "Silver",
+    "year": 2010,
+    "category": "Truck",
+    "mileage": 120123,
+    "price": 1999900
+}, {
+    "id": "fWI37la",
+    "make": "Toyota",
+    "model": "Camry",
+    "package": "SE",
+    "color": "White",
+    "year": 2019,
+    "category": "Sedan",
+    "mileage": 3999,
+    "price": 2899000
+}, {
+    "id": "1i3xjRllc",
+    "make": "Toyota",
+    "model": "Rav4",
+    "package": "XSE",
+    "color": "Red",
+    "year": 2018,
+    "category": "SUV",
+    "mileage": 24001,
+    "price": 2275000
+}, {
+    "id": "dku43920s",
+    "make": "Ford",
+    "model": "Bronco",
+    "package": "Badlands",
+    "color": "Burnt Orange",
+    "year": 2022,
+    "category": "SUV",
+    "mileage": 1,
+    "price": 4499000
+}, {
+    "id": "PQm361Un",
+    "make": "Honda",
+    "model": "Odyssey",
+    "package": "Touring",
+    "color": "White",
+    "year": 2012,
+    "category": "MiniVan",
+    "mileage": 30000,
+    "price": 2100000
+}, {
+    "id": "PXij34opq",
+    "make": "Volkswagon",
+    "model": "Passat",
+    "package": "Limited",
+    "color": "Green",
+    "year": 2001,
+    "category": "Sedan",
+    "mileage": 89000,
+    "price": 990000
+}, {
+    "id": "ZYxgv831Kd",
+    "make": "Honda",
+    "model": "Odyssey",
+    "package": "",
+    "color": "White",
+    "year": 2012,
+    "category": "MiniVan",
+    "mileage": 30000,
+    "price": 2100000
+}, {
+    "id": "ABcgv831Kd",
+    "make": "Tesla",
+    "model": "Model Y",
+    "package": "",
+    "color": "Red",
+    "year": 2021,
+    "category": "Sedan",
+    "mileage": 6,
+    "price": 7000000
+}]
